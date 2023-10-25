@@ -1,14 +1,7 @@
 # training
 Tests for coding club
-You can edit it there !
-
-I edit it here !
-Hello. 
-
-
-zhao
-
-Hallooo ! 
-second change
-
+You can edit it there!
+I edit it here!
+Hello.
+I don't want the changes of everyone
 
